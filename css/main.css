@@ -1,16 +1,23 @@
 html {
   box-sizing: border-box;
-  background-color: #dcd4cd;
+  background-color: #f0eee8;
+  font-family: Georgia;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-body {
-  display: block;
+h2 {
+  font-family: Dosis, sans-serif;
+}
+
+a {
+  color: #512200;
+  text-decoration: none;
 }
 
 div {
-  text-decoration: none;
+  font-family: Dosis, sans-serif;
 }
