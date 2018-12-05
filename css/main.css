@@ -19,8 +19,12 @@ a {
   background-color: #dcd4cd;
 }
 
-h2 {
+.link-card h2 {
   font-family: Dosis, sans-serif;
+}
+
+.link-card:hover {
+  background-color: #cabdb2;
 }
 
 div {
