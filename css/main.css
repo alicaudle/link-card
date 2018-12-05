@@ -9,15 +9,24 @@ html {
   box-sizing: inherit;
 }
 
+a {
+  text-decoration: none;
+  display: block;
+}
+
+.link-card {
+  color: #512200;
+  background-color: #dcd4cd;
+}
+
 h2 {
   font-family: Dosis, sans-serif;
 }
 
-a {
-  color: #512200;
-  text-decoration: none;
-}
-
 div {
   font-family: Dosis, sans-serif;
+}
+
+.btn {
+  color: #fff;
 }
