@@ -1,7 +1,16 @@
 html {
   box-sizing: border-box;
+  background-color: #dcd4cd;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  display: block;
+}
+
+div {
+  text-decoration: none;
 }
