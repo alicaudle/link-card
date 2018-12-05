@@ -25,6 +25,8 @@ a {
 
 .link-card h2 {
   font-family: Dosis, sans-serif;
+  margin-top: 0;
+
 }
 
 .link-card:hover {
