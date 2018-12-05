@@ -40,10 +40,25 @@ p {
   border-color: #9a816d;
 }
 
+dl {
+  font-size: .875rem;
+  border-bottom: 2px solid;
+  border-color: #9a816d;
+}
+
 div {
   font-family: Dosis, sans-serif;
+  text-align: center;
 }
 
 .btn {
   color: #fff;
+  font-weight: bold;
+  font-size: 1.125rem;
+  background-color: #785439;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #785439;
+  border-radius: 8px;
+  padding: .4em .75em .5em;
 }
