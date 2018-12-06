@@ -46,15 +46,19 @@ dl {
   border-bottom: 2px solid;
   border-color: #9a816d;
   padding: 0 0 1rem;
-}
-
-dd {
-  display: inline-block;
+  display: block;
 }
 
 dt {
   display: inline-block;
+  width: 45%;
+}
+
+dd {
+  display: inline-block;
   font-style: italic;
+  width: 45%;
+  margin: 0;
 }
 
 div {
